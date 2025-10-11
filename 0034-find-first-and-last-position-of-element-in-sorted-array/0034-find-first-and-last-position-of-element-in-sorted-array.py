@@ -1,10 +1,10 @@
 class Solution(object):
     def searchRange(self, nums, target):
         l=[]
+        z=[]
         for i in range(len(nums)):
             if nums[i]==target:
                 l.append(i)
-        z=[]
         if len(l)>=2:
             z.append(l[0])
             z.append(l[-1])
@@ -12,8 +12,6 @@ class Solution(object):
             z.append(l[0])
             z.append(l[0])
         else:
-            z.append(-1)
-            z.append(-1)
-
+            z.extend([-1,-1])
         return z
         
