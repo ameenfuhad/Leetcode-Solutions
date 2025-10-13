@@ -3,13 +3,9 @@ class Solution(object):
         r=[]
         for i in nums1:
             y=-1
-            for j in range(len(nums2)):
-                if i==nums2[j]:
-                    l=j
-                    z=nums2[j]
-                    break
-            for k in range(l,len(nums2)):
-                if nums2[k] > z :
+            l=nums2.index(i)
+            for k in range(l+1,len(nums2)):
+                if nums2[k] > i :
                     y=nums2[k]
                     break
             r.append(y)
