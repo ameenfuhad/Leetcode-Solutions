@@ -7,4 +7,3 @@ class Solution(object):
                     nums[i]=nums[j]
                     nums[j]=a
         return nums
-        
