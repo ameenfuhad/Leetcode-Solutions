@@ -6,5 +6,4 @@ class Solution(object):
                 continue
             else:
                 return i
-        return len(nums)
-        
+        return len(nums)    
