@@ -4,7 +4,9 @@ class Solution(object):
         for i in operations:
             if(i=="X++" or i=="++X"):
                 x=x+1
-            else:
+            elif(i=="X--" or i=="--X"):
                 x=x-1
+            else:
+                continue
         return x
         
