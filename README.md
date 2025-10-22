@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
