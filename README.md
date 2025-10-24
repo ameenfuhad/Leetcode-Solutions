@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
