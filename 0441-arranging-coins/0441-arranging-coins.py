@@ -5,6 +5,3 @@ class Solution(object):
             s=s+1
             n=n-s
         return s-1
-
-
-        
