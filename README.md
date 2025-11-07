@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0476-number-complement) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
