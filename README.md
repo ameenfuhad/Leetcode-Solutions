@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2571-find-the-pivot-integer](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
