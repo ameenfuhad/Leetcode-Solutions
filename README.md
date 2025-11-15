@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2502-sort-the-people](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
