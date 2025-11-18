@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1580-shuffle-the-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2058-concatenation-of-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
