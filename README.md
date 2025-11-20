@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2502-sort-the-people) |
