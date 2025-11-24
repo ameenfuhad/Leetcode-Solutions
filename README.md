@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Two Pointers
 |  |
 | ------- |
