@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
