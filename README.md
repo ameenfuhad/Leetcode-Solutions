@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
