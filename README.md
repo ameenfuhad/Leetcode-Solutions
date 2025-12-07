@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
