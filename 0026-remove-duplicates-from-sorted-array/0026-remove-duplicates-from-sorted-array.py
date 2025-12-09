@@ -5,7 +5,7 @@ class Solution(object):
         while(i<l):
             if nums.count(nums[i])>1:
                 nums.pop(i)
-                l=len(nums)
+                l-=1
                 continue
             i+=1
         return len(nums)
