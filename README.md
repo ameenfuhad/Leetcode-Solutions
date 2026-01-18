@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
