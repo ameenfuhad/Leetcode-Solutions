@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Recursion
 |  |
