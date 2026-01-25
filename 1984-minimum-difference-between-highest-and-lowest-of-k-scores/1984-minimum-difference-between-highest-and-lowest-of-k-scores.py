@@ -4,16 +4,12 @@ class Solution(object):
             return 0
         else:
             nums=sorted(nums)
-            l=len(nums)-k+1
-            min=nums[len(nums)-1]
-            i=-1
-            f=k-1
+            i=0
+            diff=nums[k-1]-nums[i]
+            l=len(nums)-k
             for n in range(l):
                 i+=1
-                f+=1
-                a=[]
-                for j in range(i,f):
-                    a.append(nums[j])
-                if(a[k-1]-a[0]<min):
-                    min=a[k-1]-a[0]
-            return min
+                k+=1
+                if(nums[k-1]-nums[i]<diff):
+                    diff=nums[k-1]-nums[i]
+            return diff
