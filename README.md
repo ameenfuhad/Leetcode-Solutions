@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [2571-find-the-pivot-integer](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting Sort
