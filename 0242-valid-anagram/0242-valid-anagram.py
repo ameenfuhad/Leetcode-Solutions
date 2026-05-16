@@ -1,10 +1,10 @@
+from collections import Counter
 class Solution(object):
     def isAnagram(self, s, t):
         if(len(s)!=len(t)):
             return False
-        for i in s:
-            if i in t:
-                t=t.replace(i,"",1)
-            else:
-                return False
-        return True
+        c1=Counter(s)
+        c2=Counter(t)
+        if(c1==c2):
+            return True
+        return False
