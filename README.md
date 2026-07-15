@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1672-richest-customer-wealth](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
