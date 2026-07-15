@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
