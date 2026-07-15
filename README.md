@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0832-flipping-an-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Two Pointers
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ameenfuhad/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
