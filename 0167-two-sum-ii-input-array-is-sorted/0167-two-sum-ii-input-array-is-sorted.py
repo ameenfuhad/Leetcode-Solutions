@@ -1,14 +1,13 @@
 class Solution(object):
     def twoSum(self, numbers, target):
-        left, right = 0, len(numbers) - 1
-        while left < right:
-            s = numbers[left] + numbers[right]
-            if s == target:
-                return [left + 1, right + 1]
-            elif s < target:
-                left += 1
+        i=0
+        j=len(numbers)-1
+        while True:
+            if(numbers[i]+numbers[j]==target):
+                return [i+1,j+1]
+            elif(numbers[i]+numbers[j]<target):
+                i+=1
             else:
-                right -= 1
-
-
+                j-=1
+            
         
