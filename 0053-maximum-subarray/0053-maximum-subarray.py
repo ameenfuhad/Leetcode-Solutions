@@ -3,6 +3,9 @@ class Solution(object):
         sum=nums[0]
         c=nums[0]
         for i in nums[1:]:
-            c=max(i,c+i)
-            sum=max(sum,c)
-        return sum
+            if(sum<0):
+                sum=0
+            sum=sum+i
+            c=max(sum,c)
+        return c
+            
